@@ -4164,6 +4164,7 @@
         "layoutOnLoadActions": [
           [
             {
+              "id": "Search3_getOrders",
               "name": "getOrderinfo",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -4177,6 +4178,7 @@
           ],
           [
             {
+              "id": "Search3_getOrders",
               "name": "getCustomer",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
